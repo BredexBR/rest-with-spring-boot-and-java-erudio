@@ -1,10 +1,17 @@
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
 
-### STS ###
+# Maven configuration
+.mvn/
+mvnw
+mvnw.cmd
+
+# Spring Boot configuration
+src/main/resources/application.yaml
+src/main/resources/application*.properties
+
+# STS (Spring Tool Suite)
 .apt_generated
 .classpath
 .factorypath
@@ -13,43 +20,35 @@ target/
 .springBeans
 .sts4-cache
 
+# Logs
+*.log
+/logs/
+
+# Build Files
 *.class
-
-
-/node_modules
-
-# SSH Keys
-
-*.pem
-*.ppk
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
 *.jar
 *.war
 *.ear
 
-# Merge Files
-*.bak
+# Temporary OS files
+*.swp
+.DS_Store
+Thumbs.db
 
-#Gradle temporary files
-target/
-
-#Eclipse files
-**/.project
-**/.classpath
-**/.settings/
-/bin/
-blog/bin/
-**/.tern-project
-
-#IntelliJ files
+# IDE-specific files
+**/.idea/
+**/.vscode/
 **/*.iml
-**/.idea
-**/.gradle
+**/.settings/
+**/.classpath
+**/.project
 
+# Node.js
+/node_modules
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# SSH Keys
+*.pem
+*.ppk
+
+# Java crash logs
 hs_err_pid*
