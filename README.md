@@ -33,7 +33,7 @@ O curso aborda a criação de uma API REST do zero, passando por conceitos funda
 - **[EXTRA 3]** Integração Contínua na Amazon AWS com o GitHub Actions
 - **[EXTRA 4]** Consumo da API com React JS
 
-## Estrutura do Projet
+## Estrutura do Projeto
 ### [05_FirstStepsInJavaWithSpringBoot](https://github.com/BredexBR/rest-with-spring-boot-and-java-erudio/tree/main/05_FirstStepsInJavaWithSpringBoot/rest-with-spring-boot-and-java-erudio)
 - Projeto inicial utilizando os conceitos básicos de REST retornando cálculos como: soma, subtração, multiplicação, divisão e raíz quadrada.
 - Utilizando requisições http (Get, Post, Put e Delete).
