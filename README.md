@@ -37,16 +37,29 @@ O curso aborda a criação de uma API REST do zero, passando por conceitos funda
 ### [05_FirstStepsInJavaWithSpringBoot](https://github.com/BredexBR/rest-with-spring-boot-and-java-erudio/tree/main/05_FirstStepsInJavaWithSpringBoot/rest-with-spring-boot-and-java-erudio)
 - Projeto inicial utilizando os conceitos básicos de REST retornando cálculos como: soma, subtração, multiplicação, divisão e raíz quadrada.
 - Utilizando requisições http (Get, Post, Put e Delete).
+<br>
+
+![Aula 5 e 6](imgs-readme/5.png)
+<br>
 
 ### [07_ApiHttpRequests](https://github.com/BredexBR/rest-with-spring-boot-and-java-erudio/tree/main/07_ApiHttpRequests/rest-with-spring-boot-and-java-erudio7)
 - Utilizando atributos de pessoas na API.
 - Integração ao banco de dados.
 - Introduzindo padrão de projeto VO(Value Object).
 - Implementação do versionamento para suporte a múltiplas versões da API.
+<br>
+
+![Aula 7 até 10](imgs-readme/7.png)
+<br>
 
 ### [11_AddMigrations](https://github.com/BredexBR/rest-with-spring-boot-and-java-erudio/tree/main/11_AddMigrations/rest-with-spring-boot-and-java-erudio11)
 - Utilizando Migrations com Flyway.
 - Adicionando Custom Json Serialization, para API retornar seu conteúdo em diversos formatos(xml, json, yaml,etc).
+
+<br>
+
+![Aula 11 e 12](imgs-readme/11.png)
+<br>
 
 ## Padrões de Projeto
 
