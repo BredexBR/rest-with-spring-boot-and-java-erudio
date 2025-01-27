@@ -54,11 +54,26 @@ O curso aborda a criação de uma API REST do zero, passando por conceitos funda
 
 ### [11_AddMigrations](https://github.com/BredexBR/rest-with-spring-boot-and-java-erudio/tree/main/11_AddMigrations/rest-with-spring-boot-and-java-erudio11)
 - Utilizando Migrations com Flyway.
-- Adicionando Custom Json Serialization, para API retornar seu conteúdo em diversos formatos(xml, json, yaml,etc).
+- Adicionando Custom Json Serialization, para API retornar seu conteúdo em formato json na ordem e nomenclatura das varáveis desejadas.
 
 <br>
 
 ![Aula 11 e 12](imgs-readme/11.png)
+<br>
+
+### [13_ContentNegotiation]()
+- Adicionando Content Negotiation, para API retornar seu conteúdo em diversos formatos(xml, json, yaml,etc).
+- Adicionando HATEOAS (Hypermedia as the Engine of Application State). Basicamente seria incluir links dentro 
+das respostas da API para permitir que os clientes naveguem pelos recursos de forma dinâmica.
+<br>
+
+![Aula 13 e 14](imgs-readme/13.png)
+
+<br>
+- Adicionando testes unitários utilizando mockito e jUnit5 para as funções Create, Update, FindAll e FindById.
+<br>
+
+![Aula 13 e 14b](imgs-readme/13b.png)
 <br>
 
 ## Padrões de Projeto
