@@ -6,6 +6,19 @@ Este repositório contém o código desenvolvido durante o curso ["REST API's RE
 
 O curso aborda a criação de uma API REST do zero, passando por conceitos fundamentais, práticas avançadas e integração com tecnologias modernas para implantação em produção.
 
+# Índice  
+
+- [Tecnologias e Ferramentas Utilizadas](#tecnologias-e-ferramentas-utilizadas)  
+- [Módulos Extras](#módulos-extras)  
+- [Estrutura do Projeto](#estrutura-do-projeto)  
+  - [05_FirstStepsInJavaWithSpringBoot](#05_firststepsinjavawithspringboot)  
+  - [07_ApiHttpRequests](#07_apihttprequests)  
+  - [11_AddMigrations](#11_addmigrations)  
+  - [13_ContentNegotiation](#13_contentnegotiation)  
+- [Padrões de Projeto](#padrões-de-projeto)  
+- [Pré-requisitos](#pré-requisitos)  
+
+
 ## Tecnologias e Ferramentas Utilizadas
 
 - **Spring Boot 3**
@@ -61,7 +74,7 @@ O curso aborda a criação de uma API REST do zero, passando por conceitos funda
 ![Aula 11 e 12](imgs-readme/11.png)
 <br>
 
-### [13_ContentNegotiation]()
+### [13_ContentNegotiation](https://github.com/BredexBR/rest-with-spring-boot-and-java-erudio/tree/main/13_ContentNegotiation/rest-with-spring-boot-and-java-erudio13)
 - Adicionando Content Negotiation, para API retornar seu conteúdo em diversos formatos(xml, json, yaml,etc).
 - Adicionando HATEOAS (Hypermedia as the Engine of Application State). Basicamente seria incluir links dentro 
 das respostas da API para permitir que os clientes naveguem pelos recursos de forma dinâmica.
@@ -70,11 +83,16 @@ das respostas da API para permitir que os clientes naveguem pelos recursos de fo
 ![Aula 13 e 14](imgs-readme/13.png)
 
 <br>
+
 - Adicionando testes unitários utilizando mockito e jUnit5 para as funções Create, Update, FindAll e FindById.
 <br>
 
 ![Aula 13 e 14b](imgs-readme/13b.png)
+
+- **Swagger**.
 <br>
+
+![Aula 13 e 14c](imgs-readme/13c.png)
 
 ## Padrões de Projeto
 
