@@ -97,8 +97,7 @@ das respostas da API para permitir que os clientes naveguem pelos recursos de fo
 <br>
 
 - Criando novo endpoint e testes unitários para Books.
-- Preparando infraestrutura de testes com Testcontainers
-
+- Preparando infraestrutura de testes com Testcontainers e Rest Assured
 
 ## Padrões de Projeto
 
