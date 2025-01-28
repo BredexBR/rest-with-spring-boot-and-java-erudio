@@ -78,7 +78,6 @@ O curso aborda a criação de uma API REST do zero, passando por conceitos funda
 - Adicionando Content Negotiation, para API retornar seu conteúdo em diversos formatos(xml, json, yaml,etc).
 - Adicionando HATEOAS (Hypermedia as the Engine of Application State). Basicamente seria incluir links dentro 
 das respostas da API para permitir que os clientes naveguem pelos recursos de forma dinâmica.
-- Criando novo endpoint e testes unitários para Books.
 
 <br>
 
@@ -95,6 +94,11 @@ das respostas da API para permitir que os clientes naveguem pelos recursos de fo
 <br>
 
 ![Aula 13 e 14c](imgs-readme/13c.png)
+<br>
+
+- Criando novo endpoint e testes unitários para Books.
+- Preparando infraestrutura de testes com Testcontainers
+
 
 ## Padrões de Projeto
 

@@ -14,7 +14,7 @@ public class OpenApiCOnfig {
 	OpenAPI customOpenAPI() {
 		return new OpenAPI()
 			.info(new Info()
-				.title("RESTful API with Java 18 and Spring Boot 3")
+				.title("RESTful API with Java 21 and Spring Boot 3.3.7")
 				.version("v1")
 				.description("Some description about your API")
 				.termsOfService("https://pub.erudio.com.br/meus-cursos")
