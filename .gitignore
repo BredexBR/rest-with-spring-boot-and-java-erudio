@@ -36,6 +36,7 @@ blog/bin/
 **/.gradle
 
 07_ApiHttpRequests/rest-with-spring-boot-and-java-erudio7/src/main/resources/application.yaml
+13_ContentNegotiation/rest-with-spring-boot-and-java-erudio13/src/test/resources/application.yaml
 
 
 

@@ -10,6 +10,7 @@ mvnw.cmd
 # Spring Boot configuration
 src/main/resources/application.yaml
 src/main/resources/application*.properties
+src/test/resources/application.yml
 
 # STS (Spring Tool Suite)
 .apt_generated
