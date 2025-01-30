@@ -1,4 +1,4 @@
-package br.com.erudio.integrationtsts.controlr.cors.witjsn;
+package br.com.erudio.integrationtsts.ctrlr.cors.witjsn;
 
 import static io.restassured.RestAssured.given;
 import static org.junit.Assert.assertNotNull;
